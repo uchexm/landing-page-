@@ -1,84 +1,64 @@
 * {
-    margin: o;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body {
-    margin: 0.5rem;
+    margin: 0;
+    padding: 0;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    
 }
-
-.header {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+.main-header {
     background-color: #1F2937;
-}
-#be {
-    height: 200px;
-    width: 250px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-}
+    background-size: cover;
+    height: 400px;
+    display: flexbox;
+    position: fixed;
+    width: 100%;
+    border: 2px;
+    padding-bottom: 30px;
+    
 
-.header a {
-    justify-content: flex-start;
-    margin: 10px;
-    display: flex;
 }
-.header li {
-    justify-content: center;
-    margin: 20px;
-    display: flex
+.logo nav {
+    display: inline;
+    justify-content: space-between;
+    flex-direction: row;
+    float: left;
+    padding: 20px;
+    
+
+}
+.links li {
+    display: inline;
+    text-decoration: none;
+    flex-direction: row;
+    float:right;
+    justify-content: space-between;
+    padding: 20px;
 }
 h1{
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    text-align: center;
 }
-h3{
-    font-size: 18px;
-    color: #E5e7eb;
-}
-.container{
+.main-header img {
     height: 300px;
-  padding: 10px;
-  background: white;
-  border: 0ch;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  margin: auto;
-  
+    width: 500px;
+    float: right;
+    padding: 30px;
 }
-.image{
-    height: 100px;
-    width: 100px;
+.container {
+  height: 400px;
+  width: fit-content;
+  background-color: red;
+}
+{
+    height: 250px;
+    width: 250x;
     border: 2px solid rgb(104, 104, 236);
     border-radius: 10px;
-    
-}
-.head{
-    height: 400px;
-    background-color: #1F2937;
-    display: flex;
-    
-}
-fieldset{
-    background-color: #3882F6;
-    text-decoration: 36px extra-bold #1F2937;
-}
-.qoute{
-    background-color: #e5e7eb;
-    font-size: 36px;
-    font-style: italic;
-    color: #1F2937;;
-}
-.link{
-    margin: auto;
-    text-align: right;
 }

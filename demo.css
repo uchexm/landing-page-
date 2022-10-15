@@ -1,60 +1,80 @@
-/*button{
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}*/
-.header{
-    height: 400px;
-    background-color: #1F2937;
-    display: flex;
-    padding: 8px;
-    justify-content: space-between;
-}
-.logo{
-    
-}
-ul{
-    display: flex;
-    padding: 0;
-    gap: 16px;
+* {
     margin: 0;
-    justify-content: right;
-    list-style-type: none;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-header {
+    height: 400px;
+    width: cover;
+    background-color: #1F2937;
+}
+.logo nav {
+    display: inline;
+    justify-content: space-between;
+    flex-direction: row;
+    float: left;
+    padding: 20px;
     
 
 }
-/*.link{
-    background: red;
-    border: 1px solid yellow;
-    height: 20px;
-    flex: 1;
-    padding: 4px;8
-
-}*/
-h1{
+.links li {
+    display: inline;
+    text-decoration: none;
+    flex-direction: row;
+    float:right;
+    justify-content: space-between;
+    padding: 20px;
+}
+h1, h3, input {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
-    justify-content: center;
-    text-align: justify;
+    text-align: center;
 }
-h3{
-    font-size: 18px;
-    color: #E5e7eb;
-}
-#logo{
-    font-size: 24px;
-    color: #F9FAF8;
-}
-#signup{
-    text-decoration-color: #3882F6
-}
-#be{
-    height: 250px;
-    width: 350;
+.main-header img {
+    height: 300px;
+    width: 500px;
     float: right;
+    padding: 30px;
+}
+.container {
+    height: 400px;
+    width: cover;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(104, 104, 236);
+    border-radius: 10px;
+}
+.qoute {
+    height: 400px;
+    width: cover;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.end fieldset {
+    display: flex;
+    position: relative;
+}
+fieldset{
+    background-color: #3882F6;
+    text-decoration: 36px extra-bold #1F2937;
+    width: 50%;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+footer {
+    background-color: #1F2937;
+    background-size: cover;
+    height: 100px;
+    text-align: center;
+    color: white;
 }
