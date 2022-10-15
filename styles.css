@@ -1,4 +1,100 @@
-img{
+/*nav{
+    background-color: #1F2937;
+}
+#be{
     height: 250px;
-    width: 350px;
+    width: 350;
+    /*align-items: left;
+    justify-content: left;
+    float: right;
+}
+div{
+    border: solid blue 2px;
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+h3{
+    font-size: 18px;
+    color: #E5e7eb;
+}
+#logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+#signup{
+    text-decoration-color: #3882F6
+}
+.container{
+    height: 300px;
+  padding: 10px;
+  background: white;
+  border: 0ch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: auto;
+  
+}
+.image{
+    height: 100px;
+    width: 100px;
+    /*border: 2px solid rgb(104, 104, 236);
+    border-radius: 10px;
+    
+}
+.head{
+    height: 400px;
+    background-color: #1F2937;
+    display: flex;
+    
+}
+fieldset{
+    background-color: #3882F6;
+    text-decoration: 36px extra-bold #1F2937;
+}
+.qoute{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;;
+}
+.link{
+    margin: auto;
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+/*:root{
+    --nav-width: 240px;
+}
+[popup] {
+    top: 0;
+    left: 100%;
+    height: 100vh;
+    width: var(--nav-width);
+    transition: transform 0.2s;
+    transform: translateX(calc(var(--open, 0)* -100%));
+}
+[popup]::backdrop{
+    transition: opacity 0.2s;
+    background: hsl(0, 0%, 10%/0.25);
+    opacity: var(--open, 0);
+}
+[popup]:open,
+[popup]:open::backdrop {
+    --open: 1;
+}
+body:has([popup]:open) {
+    transform: translateX(calc(var(--nav-width)* -1));
 }

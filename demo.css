@@ -1,0 +1,60 @@
+/*button{
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}*/
+.header{
+    height: 400px;
+    background-color: #1F2937;
+    display: flex;
+    padding: 8px;
+    justify-content: space-between;
+}
+.logo{
+    
+}
+ul{
+    display: flex;
+    padding: 0;
+    gap: 16px;
+    margin: 0;
+    justify-content: right;
+    list-style-type: none;
+    
+
+}
+/*.link{
+    background: red;
+    border: 1px solid yellow;
+    height: 20px;
+    flex: 1;
+    padding: 4px;8
+
+}*/
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    justify-content: center;
+    text-align: justify;
+}
+h3{
+    font-size: 18px;
+    color: #E5e7eb;
+}
+#logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+#signup{
+    text-decoration-color: #3882F6
+}
+#be{
+    height: 250px;
+    width: 350;
+    float: right;
+}
