@@ -129,22 +129,22 @@ h2 {
     padding: 20px;
     width: 50%;
     justify-content: center;
-    height: 100px;
+    height: 150px;
 } 
 .down p{
     text-align: start;
     color: aliceblue;
 } 
-.down input{
-    margin-bottom: 40px;
+.end input{
+    margin-bottom: 100px;
     background-color: #3882F6;
     border-radius: 6px;
-    display: inline;
     justify-content: right;
     border: 1px solid white;
     font-size: large;
     color: aliceblue;
     font-weight: bold;
+    
 } 
 h6 {
     font-size: medium;
