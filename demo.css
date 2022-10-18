@@ -8,6 +8,7 @@
     width: 100%;
     background-color: #1F2937;
     display: inline-block;
+    
 }
 .nav {
   
@@ -16,7 +17,29 @@
   padding: 20px 0;
   font-size: 14px;
   text-align: center;
+
 }
+.do {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.logo {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.in {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.re {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 
 .nav li {
     display: inline-block;
@@ -25,6 +48,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     text-align: center;
+    text-decoration: #F9FAF8;
 }
 
 .sec {
@@ -42,10 +66,15 @@
     color: #F9FAF8;
     padding-left: 40px;
 }
-.sec b {
-    text-align: start;
-    padding: 60px;
-    text-decoration: #3882F6;
+.sec input {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    margin: 40px;
+    border: 1px solid white;
+
 }
 #be {
     height: 200px;
@@ -107,11 +136,15 @@ h2 {
     color: aliceblue;
 } 
 .down input{
-    margin: 2px;
+    margin-bottom: 40px;
     background-color: #3882F6;
     border-radius: 6px;
     display: inline;
-    justify-content: center;
+    justify-content: right;
+    border: 1px solid white;
+    font-size: large;
+    color: aliceblue;
+    font-weight: bold;
 } 
 h6 {
     font-size: medium;
