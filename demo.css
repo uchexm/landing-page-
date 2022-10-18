@@ -8,32 +8,80 @@
     width: 100%;
     background-color: #1F2937;
     display: inline-block;
+    
+}
+.nav {
+  
+  top: 0;
+  width: 100%;
+  padding: 20px 0;
+  font-size: 14px;
+  text-align: center;
+
+}
+.do {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
 }
 .logo {
-    display: inline;
-    align-items: center;
-    justify-content: space-evenly;
-    display: flex;
-    flex-direction: row;
+    color: white;
+    text-transform: uppercase;
     text-decoration: none;
-    
-
+}
+.in {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.re {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 
+.nav li {
+    display: inline-block;
+    padding: 30px;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    text-decoration: #F9FAF8;
+}
 
-h1 {
-    font-size: 48px;
-    font-weight: bolder;
+.sec {
+    font-family: sans-serif;
+    justify-content: center;
+    width: 80%;
+}
+.sec h1 {
+    text-align: start;
     color: #F9FAF8;
-    text-align: left;
-    padding: 100px;
+    padding-left: 40px;
+}
+.sec p {
+    text-align: start;
+    color: #F9FAF8;
+    padding-left: 40px;
+}
+.sec input {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    margin: 40px;
+    border: 1px solid white;
+
 }
 #be {
-    height: 300px;
-    width: 500px;
+    height: 200px;
+    width: 300px;
     float: right;
     align-items: center;
+    text-align: justify;
 }
 .container {
     height: 400px;
@@ -88,11 +136,15 @@ h2 {
     color: aliceblue;
 } 
 .down input{
-    margin: 2px;
+    margin-bottom: 40px;
     background-color: #3882F6;
     border-radius: 6px;
     display: inline;
-    justify-content: center;
+    justify-content: right;
+    border: 1px solid white;
+    font-size: large;
+    color: aliceblue;
+    font-weight: bold;
 } 
 h6 {
     font-size: medium;
