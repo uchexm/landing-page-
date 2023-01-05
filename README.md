@@ -178,11 +178,10 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Play Videos**
+- [ ] **Reply to comments**
+- [ ] **Download Videos**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,9 +199,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,9 +208,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse Inc for this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,15 +217,15 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
 
-  - [Answer_1]
+- **Is this project Scalable?**
 
-- **[Question_2]**
+  - Yes
 
-  - [Answer_2]
+- **Can I create an account?**
+
+  - Not at the moment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
