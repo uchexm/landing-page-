@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Tv\_Hub\] ](#-tv_hub-)
+- [📖 \[Tv Hub\] ](#-tv_hub-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -58,11 +58,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Tv_Hub] <a name="about-project"></a>
+# 📖 [Tv Hub] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Tv_Hub]** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
+**[Tv Hub]** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -101,7 +101,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Load_Movies]**
+- **Load Movies**
 - **[View_Movie_Details]**
 - **[Leave_Comments]**
 
