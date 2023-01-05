@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Tv Hub\] ](#-tv_hub-)
+- [📖 Tv Hub ](#-tv_hub-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -58,17 +58,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Tv Hub] <a name="about-project"></a>
+# 📖 Tv Hub <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[Tv Hub]** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
+**Tv Hub** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -99,11 +97,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Load Movies**
-- **[View_Movie_Details]**
-- **[Leave_Comments]**
+- **View Movie_Details**
+- **Leave Comments**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +108,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://uchexm.github.io/JavaScript-Capstone-Project/dist/)
 
