@@ -115,31 +115,31 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-[ ] Install git in your computer.
-[] Install a code editor.
-[] And web browser to view the output.
+- Install git in your computer.
+- Install a code editor.
+- And web browser to view the output.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-[] cd my-folder
-[] git clone git@github.com:uchexm/JavaScript-Capstone-Project.git
+- cd my-folder
+- git clone git@github.com:uchexm/JavaScript-Capstone-Project.git
 
 ### Install
 
 Install this project with:
 
-[] cd my-project
-[] Run npm install to install the dependencies.
+- cd my-project
+- Run npm install to install the dependencies.
 
 ### Usage
 
 To run the project, execute the following command:
 
-[] npm run build
-[] npm start
-[] Open the dist/index.html file with a browser.
+- npm run build
+- npm start
+- Open the dist/index.html file with a browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
