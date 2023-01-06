@@ -115,7 +115,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-[] Install git in your computer.
+[ ] Install git in your computer.
 [] Install a code editor.
 [] And web browser to view the output.
 
