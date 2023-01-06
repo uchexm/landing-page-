@@ -24,10 +24,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/modules/../murple_logo%20(1).png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Tv Hub</b></h3>
+  <h3><b>Movie Site</b></h3>
 
 </div>
 
@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Tv Hub ](#-tv_hub-)
+- [📖 Movie Site ](#-movie-site-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -46,8 +46,6 @@ After you're finished please remove all the comments and instructions!
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -58,15 +56,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Tv Hub <a name="about-project"></a>
+# 📖 Movie Site <a name="about-project"></a>
 
-
-**Tv Hub** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
+**Movie Site** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -97,7 +93,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-
 - **Load Movies**
 - **View Movie Details**
 - **Leave Comments**
@@ -108,7 +103,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
 - [Live Demo Link](https://uchexm.github.io/JavaScript-Capstone-Project/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,38 +111,35 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
- npm init
+[] Install git in your computer.
+[] Install a code editor.
+[] And web browser to view the output.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:uchexm/JavaScript-Capstone-Project.git
-
+[] cd my-folder
+[] git clone git@github.com:uchexm/JavaScript-Capstone-Project.git
 
 ### Install
 
 Install this project with:
 
-  cd my-project
-  gem install
-
+[] cd my-project
+[] Run npm install to install the dependencies.
 
 ### Usage
 
 To run the project, execute the following command:
 
-npm run build
-npm start
-
+[] npm run build
+[] npm start
+[] Open the dist/index.html file with a browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,15 +147,11 @@ npm start
 
 ## 👥 Authors <a name="authors"></a>
 
-
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
+- GitHub: [@githubhandle](https://github.com/c00p75)
+- Twitter: [@twitterhandle](https://twitter.com/GeorgeMsapenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/george-m-sapenda-593750201/)
 
 👤 **Uchechi Nwaka**
 
@@ -177,7 +164,6 @@ npm start
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **Play Videos**
 - [ ] **Reply to comments**
@@ -199,7 +185,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -208,7 +193,6 @@ If you like this project give it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank Microverse Inc for this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -216,8 +200,6 @@ I would like to thank Microverse Inc for this project
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-
 
 - **Is this project Scalable?**
 
