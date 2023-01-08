@@ -54,7 +54,7 @@ After you're finished please remove all the comments and instructions!
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 Movie Site <a name="about-project"></a>
 
