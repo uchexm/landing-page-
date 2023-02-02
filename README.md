@@ -138,7 +138,7 @@ Install this project with:
 To run the project, execute the following commands:
 
 - npm run build
-- npm start
+- npm sta
 - Open the dist/index.html file with a browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
