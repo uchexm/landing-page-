@@ -13,7 +13,7 @@ REQUIRED SECTIONS:
 - Future Features
 - Contributing
 - Show your support
-- Acknowledgements
+- Acknowledgement
 
 
 After you're finished please remove all the comments and instructions!
