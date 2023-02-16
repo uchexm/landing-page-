@@ -8,7 +8,7 @@ REQUIRED SECTIONS:
 - Table of Contents
 - About the Projec
   - Built With
-  - Live De
+  - Live 
 - Getting Started
 - Future Features
 - Contributing
