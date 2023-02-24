@@ -7,7 +7,7 @@ Modify this file to match your project and remove sections that don't apply
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
-  - Built With
+  - BuiltWith
   - Live 
 - Getting Started
 - Future Features
