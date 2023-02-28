@@ -10,7 +10,7 @@ REQUIRED SECTIONS:
   - BuiltWith
   - Live 
 - Getting Started
-- Future Features
+- Future Feature
 - Contributing
 - Show your support
 - Acknowledgement
