@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Movie Site <a name="about-project"></a>
 
-**Movie Site** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page.
+**Movie Site** is a demo project illustrating a movie app. The app list out the movies that one can comment on it and like it. It loads diffrent movies eaach time the user reloads the page
 
 ## 🛠 Built With <a name="built-with"></a>
 
