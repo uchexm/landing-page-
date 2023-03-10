@@ -8,7 +8,7 @@ REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
   - BuiltWith
-  - Live
+  - Liv
 - Getting Started
 - Future Feature
 - Contributing
